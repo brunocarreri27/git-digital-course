@@ -1,5 +1,8 @@
 # Curso Digital: Git/Versionamento
 
-## Gravando mudanças no repositório/ salvando alterações
+## Salvando alterações no Git
 
-* comando git push/testv2
+* comando git push
+* comando git pull
+
+* comando git push/test
