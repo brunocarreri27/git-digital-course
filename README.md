@@ -2,4 +2,4 @@
 
 ## Gravando mudanças no repositório/ salvando alterações
 
-* comando git push/testv2.
+* comando git push/test
